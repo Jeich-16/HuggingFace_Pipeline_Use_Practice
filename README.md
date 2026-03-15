@@ -1,0 +1,2 @@
+# HuggingFace_Pipeline_Use_Practice
+HuggingFace Pipeline 실습
